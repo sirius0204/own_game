@@ -1,0 +1,14 @@
+﻿  S_Game.cpp
+c:\users\kazuma\documents\qpic\自作\qgj18冬\input.h(8): warning C4838: 'unsigned int' から 'const int' への変換には縮小変換が必要です
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.h(53): warning C4099: 'S_Game::dish': タイプ名は最初 'struct' として使われていましたが 'class' として使われています。
+  c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.h(31): note: 'S_Game::dish' の宣言を確認してください
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(82): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(83): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(85): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(121): warning C4390: ';': 制御が空の文が見つかりました。意図した記述でしょうか?
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(188): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(221): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(221): warning C4804: '>': 演算中の 'bool' 型の使用方法が安全ではありません
+c:\users\kazuma\documents\qpic\自作\qgj18冬\s_game.cpp(239): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  QGJ18冬.vcxproj -> C:\Users\Kazuma\Documents\qpic\自作\QGJ18冬\Debug\QGJ18冬.exe
+  QGJ18冬.vcxproj -> C:\Users\Kazuma\Documents\qpic\自作\QGJ18冬\Debug\QGJ18冬.pdb (Full PDB)
