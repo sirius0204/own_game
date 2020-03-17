@@ -1,0 +1,10 @@
+﻿  main.cpp
+c:\users\kazuma\documents\qpic\blotter\qgj2017夏\Input.h(12): warning C4838: 'unsigned int' から 'const int' への変換には縮小変換が必要です
+main.cpp(517): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コード生成しています。
+  6 of 45 functions (13.3%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  コード生成が終了しました。
+  QGJ2017夏.vcxproj -> C:\Users\Kazuma\Documents\qpic\blotter\Release\QGJ2017夏.exe
+  QGJ2017夏.vcxproj -> C:\Users\Kazuma\Documents\qpic\blotter\Release\QGJ2017夏.pdb (Full PDB)

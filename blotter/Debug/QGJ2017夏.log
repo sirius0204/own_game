@@ -1,0 +1,6 @@
+﻿  main.cpp
+c:\users\kazuma\documents\qpic\自作\blotter\プログラマーへ\input.h(12): warning C4838: 'unsigned int' から 'const int' への変換には縮小変換が必要です
+c:\users\kazuma\documents\qpic\自作\blotter\プログラマーへ\main.cpp(433): warning C4244: '+=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\blotter\プログラマーへ\main.cpp(295): warning C4715: 'PlayerLikeEnemy': 値を返さないコントロール パスがあります。
+  QGJ2017夏.vcxproj -> C:\Users\Kazuma\Documents\qpic\自作\blotter\プログラマーへ\Debug\QGJ2017夏.exe
+  QGJ2017夏.vcxproj -> C:\Users\Kazuma\Documents\qpic\自作\blotter\プログラマーへ\Debug\QGJ2017夏.pdb (Full PDB)
