@@ -1,0 +1,10 @@
+0:デバッグ
+1:赤ずきんHard
+2:桃太郎Hard
+3:豚Hard
+4:白雪Hard
+5:シンデレラHard
+6:赤ずきんNormal
+7:桃太郎Normal
+8:豚Normal
+ …

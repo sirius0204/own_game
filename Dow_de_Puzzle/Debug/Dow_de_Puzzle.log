@@ -1,0 +1,130 @@
+﻿  Drawer.cpp
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(226): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(233): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(242): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(243): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(327): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(333): warning C4018: '>=': signed と unsigned の数値を比較しようとしました。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(334): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(339): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(340): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(341): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(342): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(345): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(346): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(347): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(348): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(349): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(352): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(353): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(354): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(355): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(356): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(359): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(360): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(361): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(362): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(363): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(366): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(367): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(368): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(371): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(372): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(373): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(376): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(377): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(378): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(387): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(396): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(417): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(420): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(429): warning C4244: '初期化中': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(434): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(435): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(447): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(448): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(450): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(458): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(459): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(461): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(470): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(471): warning C4244: '=': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(473): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(480): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(630): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(642): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(648): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(652): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(661): warning C4244: '引数': 'const double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(720): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(760): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(762): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(764): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(767): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(774): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(781): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(791): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(797): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(807): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(812): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(821): warning C4244: '引数': 'double' から 'int' への変換です。データが失われる可能性があります。
+  コードを生成中...
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\drawer.cpp(618): warning C4715: 'Drawer::GetMiniColor': 値を返さないコントロール パスがあります。
+  コンパイル中...
+  AimDrawer.cpp
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\aimdrawer.cpp(19): warning C4018: '<': signed と unsigned の数値を比較しようとしました。
+  コードを生成中...
+  コンパイル中...
+  SceneMgr.cpp
+  S_Start.cpp
+  S_Result.cpp
+  S_Game.cpp
+  Ranking.cpp
+  GameMgr.cpp
+  コードを生成中...
+c:\users\kazuma\documents\qpic\自作\カラクリおとぎ話\tosirius\dow_de_puzzle\dow_de_puzzle\gamemgr.cpp(362): warning C4715: 'GameMgr::isReadyToFight': 値を返さないコントロール パスがあります。
+  スキップ中... (関連する変更は検出されませんでした)
+  main.cpp
+  Tutorial.cpp
+  SoundMgr.cpp
+  Map.cpp
+  InputName.cpp
+  GimicMgr.cpp
+  Gimic.cpp
+  G_Turn.cpp
+  G_Tree.cpp
+  G_Sword.cpp
+  G_Stove.cpp
+  G_SpinFloor.cpp
+  G_Peach.cpp
+  G_Mushroom.cpp
+  G_MoveFloor.cpp
+  G_LadderFloor.cpp
+  G_Ladder.cpp
+  G_Kabu.cpp
+  G_IgnitionFloor.cpp
+  G_House.cpp
+  G_Flower.cpp
+  G_Fan.cpp
+  G_Collection.cpp
+  G_Bridge.cpp
+  G_Bird.cpp
+  G_Barrier.cpp
+  G_Apple.cpp
+  FriendMgr.cpp
+  Friend.cpp
+  F_Pig.cpp
+  F_Monkey.cpp
+  F_Momotaro.cpp
+  F_Aka.cpp
+  EnemyMgr.cpp
+  Enemy.cpp
+  E_Wolf.cpp
+  E_Oni.cpp
+  E_Dog.cpp
+  E_Brownwolf.cpp
+  Collider.cpp
+  Character.cpp
+  BaseScene.cpp
+  Dow_de_Puzzle.vcxproj -> C:\Users\Kazuma\Documents\qpic\自作\カラクリおとぎ話\toSirius\Dow_de_Puzzle\Debug\Dow_de_Puzzle.exe
+  Dow_de_Puzzle.vcxproj -> C:\Users\Kazuma\Documents\qpic\自作\カラクリおとぎ話\toSirius\Dow_de_Puzzle\Debug\Dow_de_Puzzle.pdb (Full PDB)

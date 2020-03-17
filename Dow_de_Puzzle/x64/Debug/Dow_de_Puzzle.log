@@ -1,0 +1,50 @@
+﻿  S_Start.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\basescene.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  S_Result.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\basescene.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  S_Game.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\basescene.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  SceneMgr.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\scenemgr.cpp(1): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Ranking.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\ranking.h(2): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Object.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  MyInput.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\myinput.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Map.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  main.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\main.cpp(1): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  KeyConfig.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\keyconfig.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  ISceneChanger.cpp
+  InputName.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\inputname.h(2): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  G_SpinFloor.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  GimicMgr.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Gimic.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  GameMgr.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  FriendMgr.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Friend.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  E_Wolf.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  EnemyMgr.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  コードを生成中...
+  コンパイル中...
+  Enemy.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Drawer.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\drawer.h(2): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  Character.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\struct.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  BaseScene.cpp
+c:\users\hiroto\documents\visual studio 2015\projects\dow_de_puzzle\dow_de_puzzle\basescene.h(3): fatal error C1083: include ファイルを開けません。'DxLib.h':No such file or directory
+  コードを生成中...
